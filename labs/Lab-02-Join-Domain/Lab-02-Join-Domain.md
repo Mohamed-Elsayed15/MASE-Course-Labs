@@ -37,7 +37,7 @@ Upon attempting to join, Windows returned the following error:
 1. **Network Connectivity Check:** Ran `ping 192.168.1.2` from Command Prompt, confirming 0% packet loss and healthy Layer 3 connectivity to the server.
 2. **Root Cause Analysis:** Checked the error details (`0x000005B4 ERROR_TIMEOUT`), which pointed to a DNS SRV record query failure. After correcting the DNS configuration, the client successfully resolved `test.local`.
 
-![Ping Test and Error Details](images/3.jpg)
+![Ping Test and Error Details](./images/3.png)
 
 ---
 
