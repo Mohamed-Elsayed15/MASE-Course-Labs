@@ -30,8 +30,7 @@ While attempting to perform administrative operations on the Windows 10 client, 
 
 The standard domain account did not have sufficient privileges to complete the requested operations.
 
-![Domain Admin UAC Prompt](./images/7.jpg)
-
+![Domain Admin UAC Prompt](./images/7.png)
 ---
 
 ### 2. Accessing VMware Firmware
