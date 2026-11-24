@@ -79,7 +79,7 @@ Selected the local `Users` group to inspect its members.
 
 The inspection showed that `TEST\Domain Users` was already a member of the local Users group.
 
-![Local Users Group Members](./images/1.jpg)
+![Local Users Group Members](./images/1.png)
 
 ---
 
@@ -96,7 +96,7 @@ Reviewed the domain structure, including the available Organizational Units:
 
 Then opened the properties of `IT-Group` and inspected its Members tab.
 
-![Active Directory Structure and IT-Group Members](./images/4.jpg)
+![Active Directory Structure and IT-Group Members](./images/4.png)
 
 ---
 
@@ -110,7 +110,7 @@ Used the **Select Users** dialog to locate the domain user:
 
 The selected account was Mena Mohamed (`mena.mohamed@test.local`).
 
-![Selecting Mena Mohamed](./images/3.jpg)
+![Selecting Mena Mohamed](./images/3.png)
 
 ---
 
@@ -122,7 +122,7 @@ While attempting to save the changes to the local `Administrators` group, Window
 
 This indicated that the current account did not have sufficient permissions to modify the local Administrators group.
 
-![Access Denied - Adding Domain User](./images/2.jpg)
+![Access Denied - Adding Domain User](./images/2.png)
 
 ---
 
@@ -150,7 +150,7 @@ Another attempt to modify the local Administrators group by adding the domain se
 
 This confirmed that sufficient administrative privileges were required to save changes to the local Administrators group.
 
-![Access Denied - Adding IT-Group](./images/6.jpg)
+![Access Denied - Adding IT-Group](./images/6.png)
 
 ---
 
@@ -164,7 +164,7 @@ Selected the domain user:
 
 The selection was made from the `test.local` domain.
 
-![Selecting Domain User](./images/17.jpg)
+![Selecting Domain User](./images/17.png)
 
 ---
 
